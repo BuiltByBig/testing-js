@@ -17,7 +17,7 @@ This setup allows writing the latest ES6/7 JavaScript including support for the 
 
 ## Setup
 
-1. Install [nvm]()
+1. Install [nvm](https://github.com/creationix/nvm)
 2. Setup proper Node version: `nvm install && nvm use`
 3. Install dependencies: `npm install`
 4. Run tests: `npm test`
