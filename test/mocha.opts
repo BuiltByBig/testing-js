@@ -2,5 +2,6 @@
 --recursive
 --colors
 --ui bdd
+--bail
 --reporter spec
 --require test/helper
